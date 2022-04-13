@@ -18,3 +18,4 @@ Two semaphores used are naming as mutex and write_msg.
 
 # System Call
 A system call is also created naming sys_PrintMessage which take a string parameter and print the data/message/content on the kernel.
+ 
